@@ -1,1 +1,50 @@
-{}
+{
+  "movies": [
+    {
+      "id": "UgnLUWj",
+      "title": "No Country For Old Men",
+      "year": 2007,
+      "runtime": "122 min",
+      "genres": ["Crime", "Drama", "Thriller"],
+      "director": "Ethan Coen",
+      "actors": ["Tommy Lee Jones", "Javier Bardem", "Josh Brolin"],
+      "preview": "https://www.youtube.com/embed/38A__WT3-o0"
+    },
+    {
+      "id": "B6y_KkM",
+      "title": "Joker",
+      "year": 2019,
+      "runtime": "122 min",
+      "genres": ["Action", "Crime", "Drama", "Thriller"],
+      "director": "Todd Phillips",
+      "actors": ["Joaquin Phoenix", "Robert de Niro", "Zazie Beetz"],
+      "preview": "https://www.youtube.com/embed/zAGVQLHvwOY"
+    },
+    {
+      "id": "OZrzXDa",
+      "title": "The Matrix",
+      "year": "1999",
+      "runtime": "136 min",
+      "genres": ["Action", "Sci-Fi"],
+      "director": "Lana Wachowski",
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss",
+        "Hugo Weaving"
+      ],
+      "preview": "https://www.youtube.com/embed/vKqUyJ0Uco0"
+    },
+    {
+      "id": "mVSuH0h",
+      "title": "Shrek",
+      "year": 2001,
+      "runtime": "90 mins",
+      "genres": ["Animation", "Adventure", "Comedy"],
+      "director": "Andrew Adamson",
+      "actors": ["Mike Meyers", "Eddie Murphy", "Cameron Diaz"],
+      "preview": "https://www.youtube.com/embed/CwXOrWvPBPk"
+    }
+  ]
+}
+F
