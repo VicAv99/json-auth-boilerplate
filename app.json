@@ -1,13 +1,7 @@
 {
   "name": "JSON Auth Sample",
-  "description": "A barebones JSON app with JWT Authentication",
+  "description": "A bare bones JSON app with JWT Authentication",
   "repository": "https://github.com/VicAv99/json-auth-boilerplate",
   "logo": "https://en.wikipedia.org/wiki/JSON#/media/File:JSON_vector_logo.svg",
-  "env": {
-    "BASE_USER": {
-      "description": "Add a base user for logging in, in the case you would like to user something other than the default users",
-      "required": false
-    }
-  },
   "keywords": ["node", "json", "static"]
 }

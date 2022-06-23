@@ -4,8 +4,8 @@ import { create, defaults, router as _router } from 'json-server';
 import jwt from 'jsonwebtoken';
 
 const server = create();
-const router = _router("server/db.json");
-const users = JSON.parse(fs.readFileSync("server/users.json", "UTF-8")).users;
+const router = _router("./db.json");
+const users = JSON.parse(fs.readFileSync("./users.json", "UTF-8")).users;
 const middlewares = [defaults(), bodyParser.json()];
 const port = process.env.PORT || 3000;
 
